@@ -1,0 +1,29 @@
+# Unity folders
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+UserSettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.unityproj
+
+# Executables / builds
+*.exe
+*.dll
+*.apk
+*.aab
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# OS
+.DS_Store
+Thumbs.db
